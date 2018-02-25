@@ -13,3 +13,8 @@ El proyecto del firmware que se ofrece esta escrito usando el IDE de Atom+ Proye
 Este proyecto forma parte de la comunidad maker spainlabs.com y mas concretamente al usuario Grafisoft.
 
 Podeis hacer uso de todo el contenido sin restricciones siempre y cuando se indique que pertenece a Grafisoft de spainlabs.com
+
+Imagenes:
+https://i.imgur.com/tx8JCZWl.jpg
+
+https://i.imgur.com/MqIeJcal.jpg

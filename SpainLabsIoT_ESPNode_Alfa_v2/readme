@@ -6,5 +6,7 @@ siguientes:
     PubSubClient
     
 Al bajar todo el proyecto y cargarlo, sera necesario disponer previamente de las librerias. 
-En caso de no encontrarlas, os dejo las librerias necesarias en la carpeta del proyecto "/lib". En caso de que al compilar os
-genere algun error, las librerias las tendreis que mover a la carpeta dentro del proyecto ".piolibdeps".
+En caso de no encontrarlas, os dejo las librerias necesarias en la carpeta del proyecto "/lib". En caso de que al compilar 
+os genere algun error, las librerias las tendreis que mover a la carpeta dentro del proyecto ".piolibdeps".
+
+Las librerias no han sido modificadas, por lo que podeis descargarlas desde la interfaz del Atom+PlatforIO.

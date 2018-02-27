@@ -1,0 +1,10 @@
+Firmware para el modulo ESP8266.
+El proyecto esta creado bajo Atom+PlatformIO. Tiene un sistema propio para gestionar las librerias. Es necesario "instalar "las librerias
+siguientes:
+    Adafruit BME280 Library
+    Adafruit Unified Sensor
+    PubSubClient
+    
+Al bajar todo el proyecto y cargarlo, sera necesario disponer previamente de las librerias. 
+En caso de no encontrarlas, os dejo las librerias necesarias en la carpeta del proyecto "/lib". En caso de que al compilar os
+genere algun error, las librerias las tendreis que mover a la carpeta dentro del proyecto ".piolibdeps".

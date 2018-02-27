@@ -1,6 +1,6 @@
 Firmware para el modulo ESP8266.
-El proyecto esta creado bajo Atom+PlatformIO. Tiene un sistema propio para gestionar las librerias. Es necesario "instalar "las librerias
-siguientes:
+El proyecto esta creado bajo Atom+PlatformIO. Tiene un sistema propio para gestionar las librerias. Es necesario "instalar "las 
+librerias siguientes:
     Adafruit BME280 Library
     Adafruit Unified Sensor
     PubSubClient

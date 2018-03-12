@@ -14,7 +14,7 @@ Este proyecto forma parte de la comunidad maker spainlabs.com y mas concretament
 
 Podeis hacer uso de todo el contenido sin restricciones siempre y cuando se indique que pertenece a Grafisoft de spainlabs.com
 
-Imagenes:
-https://i.imgur.com/tx8JCZWl.jpg
 
-https://i.imgur.com/MqIeJcal.jpg
+![Banner](https://i.imgur.com/tx8JCZWl.jpg)
+
+![Banner](https://i.imgur.com/MqIeJcal.jpg)

@@ -54,7 +54,7 @@ Features:
 - Battery connector is JST type or we can use a battery holder (1 or 2 cells). Battery type is 18650.
 - Reset button.
 - Battery level: ADC of ESP module is used to measure battery level.
-- it is not necessary to weld all the components. Board can work with parcial smd components. We can get low cost when we need to deploy some nodes and weld necessary components only. 
+- It is not necessary to weld all the components. Board can work with parcial smd components. We can get low cost when we need to deploy some nodes and weld necessary components only. 
 - Board provide some connectors to add personal shields and increase board features or integrate new sensors.
 - Board include footprint for I2C connector. Shape is 2x2.
 - Board costs are over 6€. Not included ESP module or battery.
